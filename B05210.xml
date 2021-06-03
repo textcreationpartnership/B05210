@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of Parliament, in favours of the incorporation of the wollen manufactory at New-Milns. At Edinburgh, the fourteenth day of June, 1693 years.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05210</idno><idno type="EEBO-CITATION">47012638</idno>
+  <idno type="VID">174603</idno>
+  <idno type="EEBO-PROQUEST">2240881361</idno>
+  
+            <idno type="STC">Wing S1128E</idno>
+            <idno type="STC">ESTC R183932</idno>
+            <idno type="OCLC">47012638</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174603)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2692:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of Parliament, in favours of the incorporation of the wollen manufactory at New-Milns. At Edinburgh, the fourteenth day of June, 1693 years.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Incorporation --  Law and legislation --  Scotland --  17th century --  Sources.</term>
+               <term type="topical_term">Wool industry --  Law and legislation --  Scotland --  17th century --  Sources.</term>
+               <term type="geographic_name">Newmilns (Scotland) --  Textile industry.</term>
+               <term type="geographic_name">Scotland --  Economic conditions --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb n="1" facs="tcp:174603:1"/>
+            <head>ACT of PARLIAMENT, In Favours of the Incorporation of the Woollen-Manufactory at <hi>NEW-MILNS.</hi>
+            </head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi>
+                  <date>the Fourteenth Day of <hi>June,</hi> 1693 Years.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>UR SOVERAIGN LORD and LADY, the King and Queens Maje<g ref="char:EOLhyphen"/>sties, and the Estates of Parliament, Considering the great advantage that arise to other Nations, and particularly to our Neighbour Nation of <hi>England,</hi> by the erecting and carrying on of Manufactories, especi<g ref="char:EOLhyphen"/>ally those of Cloth, which do not only serve them at home, but vast quantities thereof, are to their great advantage exported; Besides the imploying and plen<g ref="char:EOLhyphen"/>teously maintaining a great number of poor People: As also, that some attempts have been made to erect the like Manufactories in this Kingdom, and several Laws and Acts of Parliament made for the encouragement and cherishing such as should erect the same, Which Manufactories have nevertheless not attained the wished effect: <hi>And now seing</hi> that divers of their Majesties good Subjects, (notwithstan<g ref="char:EOLhyphen"/>ding of the discouragements that hitherto have happened) have already entred in<g ref="char:EOLhyphen"/>to a Contract of Society and Co-parthery, for erecting and carrying on a Ma<g ref="char:EOLhyphen"/>nufactory at <hi>New-milns,</hi> and advanced a considerable stock for that effect, and have also agreed that the said stock shall remain mortified for the ends foresaid: <hi>And their Majesties and Estates</hi> foresaid being willing to give all due encourage<g ref="char:EOLhyphen"/>ment for advancing so generous and profitable an undertaking. THEREFORE their Majesties and Estates of Parliament, not only Declare the foresaid Society and Co-partnery to be a Manufactory; but also erects the saids Partners and So<g ref="char:EOLhyphen"/>ciety unto a free and lawful Incorporation, with all Priviledge usual, to be cal<g ref="char:EOLhyphen"/>ed in all time coming <hi>The Incorporation of the Woolen-Manufactory at New-Milns</hi> in the Shire of <hi>Haddingtoun,</hi> and to have right to, and brook and enjoy all the Pri<g ref="char:EOLhyphen"/>viledges and Immunities provided in favours of Manufactories, by the former Laws of this Kingdom. AND FURTHER, Their Majesties and Estates foresaid, Do hereby <hi>Enact and Ordain,</hi> That the principal Stock already advanced, by ver<g ref="char:EOLhyphen"/>tue of the foresaid Coutract of Society, with the foresaids Lands of <hi>New-milns</hi> and Houses acquired, and the Houses and others built and to be built thereon, with the Ware-house and Hall in <hi>Edinburgh,</hi> shall remain in all time coming, as Mortified, for carrying on the said Work, without prejudice always to any of the saids Partners, or their Successors to assign, transfer, or convey their shares of the said Stock, and the others foresaid, in whole or in part, with the burden always of the mutual Obligements of the said Contract, or to their Creditors to affect the same by legal Diligence, with the burden foresaid; and the Manufa<g ref="char:EOLhyphen"/>ctory having retention of all Charges which shall be expended by the Society, in the defence of any Action, to be intented at the instance of Creditors, one or more for affecting the said stock of any of the Co-partners, according as the saids ex<g ref="char:EOLhyphen"/>penses
+<pb n="2" facs="tcp:174603:2"/>shall be given up, under the hand of the Mannagers for the time. And to the effect that such conveyance may be the more easily expede, It is hereby ENA<g ref="char:EOLhyphen"/>CTED, STATUTE AND DECLARED, That the foresaid Stock, Materials and Profits thereof, with the Heretages, Lands and Houses built, and to be built there<g ref="char:EOLhyphen"/>upon, and Ware-house and Hall foresaid, and the Rents and Casualities of the same, shall be Transmissible by the saids Partners, or any of them, for their re<g ref="char:EOLhyphen"/>spective interests, either in whole or in part, by a simple Translation or Assign<g ref="char:EOLhyphen"/>ment, to be recorded and insert in the Books of the said Society, as well these keeped in <hi>England,</hi> as the Books keeped in <hi>Scotland,</hi> and Signed by the Gran<g ref="char:EOLhyphen"/>ter, before two Subscribing Witnesses, and an extract thereof subscribed in like manner by the Keeper of the said Books in <hi>London</hi> and <hi>Edinburgh,</hi> is to be deli<g ref="char:EOLhyphen"/>vered to the Purchaser, without any Disposition, Charter, or Infeftment thereon, any other Registration than aforesaid, Intimation, or any other Formality requir<g ref="char:EOLhyphen"/>ed by the Law and Practique of this Kingdom, Hereby Declaring, That such a Translation or Assignment, so to be recorded and inserted in the saids Books, with the foresaid extract thereof, shall be as valid and effectual Rights to the receiv<g ref="char:EOLhyphen"/>ers, as they had all usual Deeds and Evidences expede thereanent in the common Form of Law: The saids Books and Records being always made patent to the Leidges, when ever and as oft as required. AND FURTHER, Their Majesties and Estates of Parliament, <hi>Do Statute and Ordain,</hi> That all Materials, Instru<g ref="char:EOLhyphen"/>ments and others whatsoever needful and useful for the said Manufactory, to be imported, whether in Forraign Vessels, or these belonging to this Kingdom: As also, all Cloths, Stuffs, Stockings, or other Work made by the Incorporation of the said Manufactory, and exported, <hi>shall be free of Custom, Excise, and all other publick Dues, for the space of twenty one years, next after the date of this present Act.</hi> And forasmuch as by the fourtieth Act of Parliament, One Thousand six hun<g ref="char:EOLhyphen"/>dred sixty one years, It is provided, That any Stocks imployed for erecting and entertaining Manufactories, shall be free of all privat and publick Taxes. There<g ref="char:EOLhyphen"/>fore their Majesties and Estates foresaid, <hi>Do Statute and Ordain,</hi> That the Stock of the said Manufactory advanced and to be advanced, and profits thereof, and all Land and others acquired for the use of the same, and Houses built or to be built thereon, <hi>shall be free of all Cesses, Supplies, Taxations, Excise, or other publick burdens, imposed during the space foresaid.</hi> As also, <hi>That the Malt, or Liquors made of Malt, or other Strong Waters whatsoever made use of for the Masters and Servants, or others employed in the said Manufactory, within the Town or Lands of New-milns, and consumed within the bounds foresaid, shall be free of all Excise for the space of twenty one years after the date hereof:</hi> As also, that the saids Lands and Houses, with the whole Inhabitants thereof, <hi>be free of all quartering of Soldiers, either local or transient, and of Levying of Soldiers, during the standing of the said Manufactory.</hi> And for the further encouragement of the said Work, Their Majesties and Estates foresaid, hereby Declare, That it shall not be lawful for any Military Officer or others, to inlist any of the Servants belonging to the said Manufactory, although willing to engage as Soldiers; <hi>And that it shall not be lawful to any person or persons whatsomever, or any other Incorporation or Manufactory, to entertain in their privat Service, or for the use of any other Manufactory, any of the Servants belonging to the said Manufactory of New-milns, until they first serve out their time conform to their respective agreements;</hi> And that the saids Partners shall have power to call back and retain any of their saids Servants, wherever they can be found: As also, Their Majesties and Estates foresaid, Do Declare that a Testificat upon Soul and Conscience, under the hand of the Masters and Clerk of the Society, Declaring that such a Servant belongs to the Incorporation, shall be sufficient to oblige any of their Majesties Leidges, Officers or Soldiers, whether Forraign; or these at home, to deliver up the saids Servants, <hi>under the Penalty of an hundred pounds Scots.</hi> Requiring hereby the respective Magistrats in Burgh or Landward, to secure the Persons of these Ser<g ref="char:EOLhyphen"/>vants: As also, to administer Justice against such as refuse to deliver them back, till
+<pb n="3" facs="tcp:174603:2"/>till they make payment of the said Sum of an <hi>hundred</hi> pounds <hi>Scots,</hi> and deliver up the Person or persons belonging to the foresaid Corporation. And further, It is hereby Statute and Ordained, <hi>That all the Regiments, Troups and Soldiers of the Scots Establishment, shall be obliged to furnish themselves with Cloaths of the pro<g ref="char:EOLhyphen"/>duct of this Kingdom,</hi> Discharging hereby any License or Dispensation to the con<g ref="char:EOLhyphen"/>trair. And lastly, Their Majesties and Estates foresaid; Do hereby impower the saids Partners to appoint a Baillie from time to time, with power to the said Baillie to keep and hold Courts within the saids Lands of <hi>New-milns,</hi> for punish<g ref="char:EOLhyphen"/>ing of Crimes and Delinquencies committed by their own Servants, or others up<g ref="char:EOLhyphen"/>on the Ground, and to decide any difference falling out betwixt the saids Ser<g ref="char:EOLhyphen"/>vants, and in case of Delinquencies, to Imprison and impose and exact Fines, ac<g ref="char:EOLhyphen"/>cording to the Laws of the Kingdom: And for that effect, the saids Partners to Elect, Nominat and appoint Clerks, Serjeants, Dempsters, and other Members of Court requisit, with all other Immunities, Powers and Priviledges granted in favours of Baillies of Barony and their Courts. Extracted forth of the Re<g ref="char:EOLhyphen"/>cords of Parliament, by <hi>George</hi> Viscount of <hi>Tarbat,</hi> Lord <hi>Mcleod</hi> and <hi>Castlehaven,</hi> &amp;c. Clerk to their Majesties Parliament, Councils, Registers and Rolls,</p>
+            <closer>
+               <signed>TARBAT.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Successors of <hi>Andrew Anderson,</hi> Printer to their most Excellent Majesties, <hi>Anno DOM.</hi> 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
